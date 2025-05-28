@@ -1,4 +1,6 @@
-<h1 align="center">Yo what's up!! I'm Daniel Mateos,<br>a student developer from Spain</h1>
+<h1 align="center">Hey! I’m Daniel Mateos,<br>
+just a coder from Spain 
+trying to build some cool stuff.
 
 ###
 
@@ -6,11 +8,11 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/IH_TkAC2dQQAAAAM/test.gif"  />
+<img align="right" height="190" src="https://media.tenor.com/IH_TkAC2dQQAAAAM/test.gif"  />
 
 ###
 
-<p align="left">‎ <br>📍 León🦁, Spain 🇪🇸<br><br>🥶I'm just starting to mess with it<br><br>💪🏻 Stay hard.</p>
+<p align="left">‎ <br>‎📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝, let's cook son<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</p>
 
 ###
 
