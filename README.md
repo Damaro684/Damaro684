@@ -70,4 +70,10 @@
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damaro684/Damaro684/refs/heads/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damaro684/Damaro684/refs/heads/output/pacman-contribution-graph.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Damaro684/Damaro684/refs/heads/output/pacman-contribution-graph-dark.svg" />
+</picture>
+
 ###
