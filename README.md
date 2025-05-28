@@ -69,11 +69,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=iwk2eparw409gxqc12e4tvdv4&count=6&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damaro684/Damaro684/refs/heads/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damaro684/Damaro684/refs/heads/output/pacman-contribution-graph.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Damaro684/Damaro684/refs/heads/output/pacman-contribution-graph-dark.svg" />
-</picture>
-
 ###
