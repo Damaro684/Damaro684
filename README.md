@@ -6,13 +6,15 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/IH_TkAC2dQQAAAAM/test.gif"  />
+<img align="right" height="180" src="https://media.tenor.com/IH_TkAC2dQQAAAAM/test.gif"  />
 
 ###
 
-<p align="left">📍 León🦁, Spain 🇪🇸<br>🥶I'm just starting to mess with it<br>💪🏻 Stay hard.</p>
+<p align="left">‎ <br>📍 León🦁, Spain 🇪🇸<br><br>🥶I'm just starting to mess with it<br><br>💪🏻 Stay hard.</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I code with</h2>
 
@@ -36,11 +38,36 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damaro684/Damaro684/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damaro684/Damaro684/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Damaro684/Damaro684/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">My social</h2>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Damaro684/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/daniel.mateoss">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=daniel.mateoss&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
