@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</p>
+<h4 align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bDZqOGk5c3V5ZzU4MWZscDA1ZjZlaHc1NzZscW54dmpjOG5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5hVhkKwKHDuo/giphy.gif"  />
+<img align="left" height="175" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bDZqOGk5c3V5ZzU4MWZscDA1ZjZlaHc1NzZscW54dmpjOG5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5hVhkKwKHDuo/giphy.gif"  />
 
 ###
 
