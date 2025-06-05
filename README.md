@@ -2,17 +2,21 @@
 
 ###
 
-<p align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</p>
+<img align="right" height="180" src="https://camo.githubusercontent.com/1f40f91b2141bed99ea95a9adc5ea206b9b42eeccc77e35d55f0779f0d48e3a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f49485f546b414332645151414141414d2f746573742e676966"  />
 
 ###
 
-<img align="right" height="180" src="https://camo.githubusercontent.com/1f40f91b2141bed99ea95a9adc5ea206b9b42eeccc77e35d55f0779f0d48e3a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f49485f546b414332645151414141414d2f746573742e676966"  />
+<p align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</p>
 
 ###
 
 <br clear="both">
 
 <h2 align="center">I code with</h2>
+
+###
+
+<img align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bDZqOGk5c3V5ZzU4MWZscDA1ZjZlaHc1NzZscW54dmpjOG5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5hVhkKwKHDuo/giphy.gif"  />
 
 ###
 
@@ -43,10 +47,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="discord logo"  />
 </div>
-
-###
-
-<img align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bDZqOGk5c3V5ZzU4MWZscDA1ZjZlaHc1NzZscW54dmpjOG5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5hVhkKwKHDuo/giphy.gif"  />
 
 ###
 
