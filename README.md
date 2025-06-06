@@ -12,11 +12,13 @@
 
 <br clear="both">
 
-<h2 align="center">I code with</h2>
+<h1>‎ </h1>
+
+<h2 align="center">I CODE WITH</h2>
 
 ###
 
-<img align="left" height="175" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bDZqOGk5c3V5ZzU4MWZscDA1ZjZlaHc1NzZscW54dmpjOG5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5hVhkKwKHDuo/giphy.gif"  />
+<img align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bDZqOGk5c3V5ZzU4MWZscDA1ZjZlaHc1NzZscW54dmpjOG5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5hVhkKwKHDuo/giphy.gif"  />
 
 ###
 
