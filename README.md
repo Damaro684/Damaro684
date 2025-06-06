@@ -6,13 +6,11 @@
 
 ###
 
-<h4 align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</h4>
+<h4 align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝<br><br>📚 DAM Student<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</Bbr></h4>
 
 ###
 
 <br clear="both">
-
-<h1>‎ </h1>
 
 <h2 align="center">I CODE WITH</h2>
 
@@ -24,21 +22,21 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="go logo"  />
-  <img width="14" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
 </div>
 
