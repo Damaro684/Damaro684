@@ -2,21 +2,14 @@
 
 ###
 
-<img align="right" height="180" src="https://camo.githubusercontent.com/1f40f91b2141bed99ea95a9adc5ea206b9b42eeccc77e35d55f0779f0d48e3a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f49485f546b414332645151414141414d2f746573742e676966"  />
 
-###
-
-<h4 align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>🥶𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚘 𝚖𝚎𝚜𝚜 𝚠𝚒𝚝𝚑 𝚒𝚝<br><br>📚 DAM Student<br><br>🏀 𝙱𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕 𝚎𝚗𝚓𝚘𝚢𝚎𝚛𝚛 + GYM<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</Bbr></h4>
+<h4 align="left">📍 𝙻𝚎ó𝚗🦁, 𝚂𝚙𝚊𝚒𝚗 🇪🇸<br><br>📚 DAM Student<br><br>💪🏻 𝚂𝚝𝚊𝚢 𝚑𝚊𝚛𝚍.</h4>
 
 ###
 
 <br clear="both">
 
 <h2 align="center">I CODE WITH</h2>
-
-###
-
-<img align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE3bDZqOGk5c3V5ZzU4MWZscDA1ZjZlaHc1NzZscW54dmpjOG5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5hVhkKwKHDuo/giphy.gif"  />
 
 ###
 
@@ -61,20 +54,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damaro684/Damaro684/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Damaro684/Damaro684/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/iwk2eparw409gxqc12e4tvdv4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=iwk2eparw409gxqc12e4tvdv4&count=6" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Damaro684/count.svg?"  />
-</div>
 
 ###
 
