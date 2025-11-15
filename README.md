@@ -7,8 +7,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">I CODE WITH</h2>
 
 ###
